@@ -1,5 +1,7 @@
 ### This project visualizes hiking trails using Mapbox GL JS. It includes features like real-time distance and elevation updates as the camera moves along the hiking trail.
 
+![Trail](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xzaGpvYnpueGV4OGxzN3VsMnN1M2hzeGM0OHpqcXdlazY1MjB1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R1MlWX6NHdJogpH0HO/giphy.gif)
+
 ####  Technologies and Links
  - [React](https://react.dev/)
  - [Mapbox](https://www.mapbox.com/)
