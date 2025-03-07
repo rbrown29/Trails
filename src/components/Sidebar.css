@@ -3,7 +3,7 @@
 @media (max-width: 768px) {
     /* Override the inline styles on small screens using !important */
     #sidebar {
-      width: 100% !important;
+      width: 30% !important;
       padding: 0.5rem !important;
       border-right: none !important;
       border-bottom: 2px solid #333 !important;
@@ -19,6 +19,14 @@
       margin: 0.3rem 0 !important;
       padding: 0.3rem !important;
       font-size: 0.9rem !important;
+    }
+    #trail{
+        margin: 0.3rem 0 !important;
+        padding: 0.3rem !important;
+        font-size: 0.9rem !important;
+    }
+    #cyberEl6{
+        margin-left: 2rem !important;
     }
   }
   

@@ -35,11 +35,13 @@ function Sidebar({ trailsData, selectedTrailIndex, setSelectedTrailIndex }) {
         }}
       >
         <CyberEl6
+         id="cyberEl6"
           style={{ width: "50px", height: "50px", marginLeft: "6rem" }}
         />
       </h3>
       {sortedTrails.map((trail, i) => (
         <div
+        id="trail"
           key={i}
           style={{
             margin: "0.5rem 0",
