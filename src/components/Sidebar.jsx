@@ -2,6 +2,7 @@
 import "react";
 import PropTypes from "prop-types";
 import { CyberEl6 } from "react-cyber-elements";
+import "./Sidebar.css";
 
 function Sidebar({ trailsData, selectedTrailIndex, setSelectedTrailIndex }) {
   
@@ -10,6 +11,7 @@ function Sidebar({ trailsData, selectedTrailIndex, setSelectedTrailIndex }) {
 
   return (
     <div
+     id="sidebar"
       style={{
         width: 250,
         padding: "1rem",
